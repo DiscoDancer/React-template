@@ -1,2 +1,1 @@
-# React-template
-React, Typescript, HMR, SourceMaps
+# RecipesApp
